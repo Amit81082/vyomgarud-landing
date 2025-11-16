@@ -1,20 +1,40 @@
-<<<<<<< HEAD
-# vyomgarud-landing
-=======
-# React + Vite
+# VyomGarud Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Description:**
+Modern, responsive landing page for VyomGarud — a UAV / drone systems company with military-grade, professional identity.
 
-Currently, two official plugins are available:
+**Stack:**
+- React + Vite
+- Tailwind CSS
+- Framer Motion (animations)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Features:**
+- Hero section with CTA and background image
+- About section with mission statement
+- Capabilities section with hover cards
+- Highlights section with feature chips
+- Contact form (UI only) + Footer
+- Fully responsive and polished
+- Smooth scrolling & subtle animations
 
-## React Compiler
+**Setup Instructions:**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Clone the repo:
+```bash
+git clone https://github.com/Amit81082/vyomgarud-landing.git
 
-## Expanding the ESLint configuration
+**Install dependencies:**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 2ca9be2 (Initial VyomGarud landing page complete)
+cd vyomgarud-landing
+npm install
+
+
+Run development server:
+
+npm run dev
+
+**Screenshots:**
+(Add screenshots or GIF of your landing page here)
+
+Author:
+Amit Maurya
