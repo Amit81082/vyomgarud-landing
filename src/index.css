@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Custom colors as CSS variables */
+:root {
+  --vyomCharcoal: #1b1f23;
+  --vyomOrange: #ff7b00;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+
+
