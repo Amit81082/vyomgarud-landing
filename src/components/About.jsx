@@ -33,7 +33,7 @@ export default function About() {
         {/* Right side: Optional image/icon */}
         <div className="md:w-1/2 flex justify-center">
           <img
-            src="/src/assets/drone(1).png" // temporary placeholder, can replace with UAV icon
+            src="/assets/drone(1).png" // temporary placeholder, can replace with UAV icon
             alt="Drone Illustration"
             className="w-full max-w-sm rounded-md hover:-translate-y-1 transform duration-300"
           />

@@ -7,7 +7,7 @@ export default function Hero() {
     <header
       id="hero"
       className="relative h-screen bg-cover bg-center"
-      style={{ backgroundImage: "url('/src/assets/hero.jpg')" }}
+      style={{ backgroundImage: "url('/assets/hero.jpg')" }}
     >
       {/* Dark overlay */}
       <div className="absolute inset-0 bg-black/70"></div>
