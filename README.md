@@ -20,9 +20,7 @@ Modern, responsive landing page for VyomGarud — a UAV / drone systems company 
 **Setup Instructions:**
 
 1. Clone the repo:
-```bash
 git clone https://github.com/Amit81082/vyomgarud-landing.git
-
 **Install dependencies:**
 
 cd vyomgarud-landing
